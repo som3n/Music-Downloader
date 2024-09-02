@@ -38,7 +38,7 @@ This project is a Python-based YouTube MP3 Downloader that allows you to search 
 
 2. **Run the Script:**
    ```
-   python downloader.py
+   python download_music.py
    ```
 
 3. **Input Song Names:**
